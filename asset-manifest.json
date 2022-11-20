@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/siajin/siajin.github.io/static/css/main.d45113d1.css",
+    "main.js": "/siajin/siajin.github.io/static/js/main.8ebd25cf.js",
+    "index.html": "/siajin/siajin.github.io/index.html",
+    "main.d45113d1.css.map": "/siajin/siajin.github.io/static/css/main.d45113d1.css.map",
+    "main.8ebd25cf.js.map": "/siajin/siajin.github.io/static/js/main.8ebd25cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d45113d1.css",
+    "static/js/main.8ebd25cf.js"
+  ]
+}
